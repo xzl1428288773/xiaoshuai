@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T02:48:13.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="dzDu-qgThglQKSutQ9t1" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T03:06:39.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GXMDfIZfXdGOuAtJZnqF" version="21.1.4" type="github">
   <diagram name="第 1 页" id="Gara6Eefkx1G8ZgkLCB0">
     <mxGraphModel dx="1242" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="284" y="157" width="827" height="207" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="77" width="812" height="52" as="geometry" />
+          <mxGeometry x="282" y="50" width="827" height="81" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-5" value="权益类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="441" width="74" height="24" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="Y0EksiwexTorMI2MB5jG-16" value="场景规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="557" width="74" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="Y0EksiwexTorMI2MB5jG-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Y0EksiwexTorMI2MB5jG-17" value="人 - 智能化&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="635" y="376" width="334" height="334" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-20" value="证 - 实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -113,10 +113,10 @@
           <mxGeometry x="915" y="300" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-44" value="二方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302" y="86" width="76" height="34" as="geometry" />
+          <mxGeometry x="303" y="73.5" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-45" value="三方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="412" y="86" width="76" height="34" as="geometry" />
+          <mxGeometry x="403" y="76" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Y0EksiwexTorMI2MB5jG-46" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="609" y="86" width="76" height="34" as="geometry" />
